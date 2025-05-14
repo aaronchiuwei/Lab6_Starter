@@ -1,3 +1,3 @@
 # Lab 6 - Starter
 Aaron Chiuwei
-Link: 
+<br>Link: [LAB 6 SITE](https://aaronchiuwei.github.io/Lab6_Starter/)
